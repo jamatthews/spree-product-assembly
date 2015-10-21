@@ -1,3 +1,4 @@
+if defined? Spree::Wombat
 module Spree
   module Wombat
     class AssemblyShipmentSerializer < ShipmentSerializer
@@ -34,4 +35,5 @@ module Spree
       end
     end
   end
+end
 end
