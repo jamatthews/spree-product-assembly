@@ -1,4 +1,4 @@
-if defined? Spree::Admin::PartsController
+if defined? Spree::Admin::ProductsController
   class Spree::Admin::PartsController < Spree::Admin::BaseController
     helper_method :product
 
