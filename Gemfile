@@ -7,3 +7,4 @@ gem 'spree_wombat', github: 'spree/spree_wombat', branch: branch
 gem 'pry-rails'
 
 gemspec
+
